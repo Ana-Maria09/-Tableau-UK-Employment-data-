@@ -9,6 +9,7 @@ This project provides an interactive analysis of sales, shipping costs, and prof
 The project includes several Tableau dashboards:
 
 1️⃣ Shipping Cost Analysis
+
 <img width="532" alt="Shipping " src="https://github.com/user-attachments/assets/77505538-c786-40e9-81b0-a74a32f0a7b4" />
 
 📈 Trend Analysis: The shipping cost has increased significantly over the years (2012-2015).
@@ -17,6 +18,7 @@ The project includes several Tableau dashboards:
 🖼 Visualization:
 
 2️⃣ Sales by Region
+
 <img width="417" alt="sales by region" src="https://github.com/user-attachments/assets/76994192-7f0f-495f-a418-3e4cc5f8fee3" />
 
 🌍 Regional Comparison: Sales vary significantly across regions, with South America and Southern Europe leading.
@@ -25,6 +27,7 @@ The project includes several Tableau dashboards:
 🖼 Visualization:
 
 3️⃣ Profit Margin by Category
+
 ![Screenshot Profit ](https://github.com/user-attachments/assets/406b2c60-93d9-4f92-b8b2-8b67e7fbe42c)
 
 💰 Profit vs Sales Correlation: The scatter plot shows that Technology has the highest profit margin, while Furniture has the lowest.
